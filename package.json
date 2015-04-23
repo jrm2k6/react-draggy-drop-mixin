@@ -1,0 +1,34 @@
+{
+  "name": "react-draggy-drop-mixin",
+  "version": "0.0.1",
+  "description": "A small mixin to manage drag and drop easily for your components. Automatic reordering. Using React and reflux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "prepublish": "./scripts/prepublish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrm2k6/react-draggy-drop-mixin.git"
+  },
+  "dependencies": {
+    "react": "^0.12.2",
+    "reflux": "^0.2.7",
+    "react-tools": "*"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "drag",
+    "drop",
+    "mixins"
+  ],
+  "author": "Jeremy Dagorn <jeremy.dagorn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrm2k6/react-draggy-drop-mixin/issues"
+  },
+  "homepage": "https://github.com/jrm2k6/react-draggy-drop-mixin"
+}
