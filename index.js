@@ -1,0 +1,1 @@
+module.exports = DragDropMixin: require('./dist/DragDropMixin')
