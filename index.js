@@ -1,1 +1,1 @@
-module.exports = DragDropMixin: require('./dist/DragDropMixin')
+module.exports = require('./dist/DragDropMixin.js');
