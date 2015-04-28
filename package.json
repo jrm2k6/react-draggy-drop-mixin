@@ -15,12 +15,10 @@
   },
   "dependencies": {
     "react": "^0.12.2",
-    "reflux": "^0.2.7",
     "react-tools": "*"
   },
   "keywords": [
     "react",
-    "flux",
     "drag",
     "drop",
     "mixins"
